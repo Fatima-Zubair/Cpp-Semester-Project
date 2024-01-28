@@ -3,6 +3,7 @@
 <br>
 --> The system allows users to manage appointments, including adding new appointments, viewing details, searching, and deleting appointments.
 <br>
+<br>
  Including Features:
 <br>
 - User Authentication: Password-protected access to the system.<br>
